@@ -14,6 +14,7 @@ public class LoginTest extends login {
 		System.out.println(driver.findElement(By.xpath("//div/span/h6")).getText());
 		
 		 System.out.println("Login Done");
+		 System.out.println("Login completed");
 		
 	}
 
