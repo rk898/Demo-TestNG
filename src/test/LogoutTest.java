@@ -21,6 +21,7 @@ public class LogoutTest extends login {
 		
 		    System.out.println("Logout Done");
 		    System.out.println("Logout Completed");
+		    System.out.println("Logout Completed new change");
 		    driver.quit();
 		
 	}
