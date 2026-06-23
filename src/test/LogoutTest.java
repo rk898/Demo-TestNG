@@ -20,6 +20,7 @@ public class LogoutTest extends login {
 		    wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[text()='Logout']"))).click();
 		
 		    System.out.println("Logout Done");
+		    System.out.println("Logout Completed");
 		    driver.quit();
 		
 	}
